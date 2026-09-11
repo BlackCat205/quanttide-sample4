@@ -1,0 +1,18 @@
+[submodule "apps/qtcloud-sample4"]
+	path = apps/qtcloud-sample4
+	url = https://github.com/BlackCat205/qtcloud-sample4.git
+[submodule "packages/quanttide-sample4-toolkit"]
+	path = packages/quanttide-sample4-toolkit
+	url = https://github.com/BlackCat205/quanttide-sample4-toolkit.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/BlackCat205/quanttide-laboratory-of-sample4-engineering.git
+[submodule "data/context"]
+	path = data/context
+	url = https://github.com/BlackCat205/quanttide-context-of-sample4-engineering.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/BlackCat205/quanttide-journal-of-sample4-engineering.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/BlackCat205/quanttide-intention-of-sample4-engineering.git
